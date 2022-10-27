@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://www.idrd.gov.co/sites/default/files/styles/800_ancho/public/noticias/imagen/2022-04/18%201_5.jpg?itok=HlwSi1Qb);
+    background-repeat: no-repeat;
+    background-size: 1850px;
+}
+p{
+    font-size: 35px;
+    color:gray;
+
+
+}
+h3{
+    font-size: 20px;
+    color:black;
+}
+h4{
+    font-size: 20px;
+    color:blue;
+}
